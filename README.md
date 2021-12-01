@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+#####<h3>Visitor Count</h3>
+![Visitor Count](https://profile-counter.glitch.me/Vlogo11/count.svg)
 <!--
 **Vlogo11/Vlogo11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
