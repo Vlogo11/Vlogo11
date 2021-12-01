@@ -1,4 +1,4 @@
-### Hi there (https://i.pinimg.com/originals/ff/46/38/ff4638bb13299ab514a0df5c073051c0.gif)
+### Hi there ![Visitor Count](https://i.pinimg.com/originals/ff/46/38/ff4638bb13299ab514a0df5c073051c0.gif)
 👋
 ## Visits:
 
