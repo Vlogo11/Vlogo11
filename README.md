@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there ![Visitor Count](https://hu.pinterest.com/wwiggan/hello-hey-hi/)
+👋
 ## Visits:
 
 ![Visitor Count](https://profile-counter.glitch.me/Vlogo11/count.svg)
