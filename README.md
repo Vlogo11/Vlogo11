@@ -1,5 +1,4 @@
-### Hi there ![Hello](https://i.pinimg.com/originals/ff/46/38/ff4638bb13299ab514a0df5c073051c0.gif) about me dfjosfpof
-👋
+### [Hello](https://i.pinimg.com/originals/ff/46/38/ff4638bb13299ab514a0df5c073051c0.gif) about me dfjosfpof
 ## Visits:
 
 ![Visitor Count](https://profile-counter.glitch.me/Vlogo11/count.svg)
